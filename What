@@ -1,0 +1,7 @@
+//Actually, i'm very new to the world of coding, I just know c++, the basic.
+include <iostream>
+using namespace std;
+main (){
+cout << "Hello world\n";
+}
+//Yeah....
